@@ -138,7 +138,6 @@ pipeline-utility-steps
 plain-credentials
 plugin-util-api
 popper-api
-prometheus
 pubsub-light
 rake
 rebuild
