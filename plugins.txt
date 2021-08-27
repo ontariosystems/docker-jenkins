@@ -43,7 +43,7 @@ build-timeout
 built-on-column
 caffeine-api
 checks-api
-cloudbees-bitbucket-branch-source
+cloudbees-bitbucket-branch-source::https://ci.jenkins.io/job/Plugins/job/bitbucket-branch-source-plugin/job/PR-475/4/artifact/org/jenkins-ci/plugins/cloudbees-bitbucket-branch-source/2.9.11-rc708.b7ca8ad3d29e/cloudbees-bitbucket-branch-source-2.9.11-rc708.b7ca8ad3d29e.hpi
 cloudbees-disk-usage-simple
 cloudbees-folder
 cobertura
