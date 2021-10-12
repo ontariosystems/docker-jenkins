@@ -114,7 +114,7 @@ monitoring
 msbuild
 mstest
 mstestrunner
-nested-view
+nested-view:1.19.1
 node-iterator-api
 oauth-credentials
 Office-365-Connector
