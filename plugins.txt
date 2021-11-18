@@ -68,6 +68,7 @@ echarts-api
 embeddable-build-status
 extended-read-permission
 external-monitor-job
+extra-columns
 favorite
 font-awesome-api
 forensics-api
