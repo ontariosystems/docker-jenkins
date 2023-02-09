@@ -80,7 +80,6 @@ github
 github-api
 github-branch-source
 google-oauth-plugin
-greenballs
 handlebars
 handy-uri-templates-2-api
 htmlpublisher
