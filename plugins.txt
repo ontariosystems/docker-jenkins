@@ -103,7 +103,7 @@ pam-auth
 parameterized-trigger
 pipeline-build-step
 pipeline-graph-analysis
-pipeline-graph-view:156.v61fcf9a_7fb_e7
+pipeline-graph-view
 pipeline-groovy-lib
 pipeline-input-step
 pipeline-milestone-step
