@@ -136,6 +136,7 @@ ssh-slaves
 sshd
 structs
 subversion
+snyk-security-scanner
 timestamper
 token-macro
 trilead-api
