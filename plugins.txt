@@ -39,7 +39,6 @@ credentials-binding
 cucumber-reports
 data-tables-api
 datadog
-date-parameter
 display-url-api
 docker-commons
 docker-workflow
