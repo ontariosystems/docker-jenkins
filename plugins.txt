@@ -1,6 +1,5 @@
 Office-365-Connector
 Parameterized-Remote-Trigger
-ace-editor
 active-directory
 analysis-model-api
 anchore-container-scanner
@@ -59,7 +58,6 @@ github
 github-api
 github-branch-source
 google-oauth-plugin
-handlebars
 handy-uri-templates-2-api
 htmlpublisher
 jackson2-api
@@ -90,7 +88,6 @@ matrix-auth
 matrix-project
 maven-plugin
 metrics
-momentjs
 monitoring
 msbuild
 mstest
@@ -117,7 +114,6 @@ pipeline-stage-view
 pipeline-utility-steps
 plain-credentials
 plugin-util-api
-popper2-api
 prism-api
 rake
 rebuild
@@ -143,7 +139,6 @@ trilead-api
 variant
 view-job-filters
 warnings-ng
-windows-slaves
 workflow-aggregator
 workflow-api
 workflow-basic-steps
