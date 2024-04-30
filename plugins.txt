@@ -98,6 +98,7 @@ oauth-credentials
 okhttp-api
 pam-auth
 parameterized-trigger
+pipeline-aws
 pipeline-build-step
 pipeline-graph-analysis
 pipeline-graph-view
