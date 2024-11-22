@@ -27,8 +27,7 @@ checks-api
 cloudbees-bitbucket-branch-source
 cloudbees-disk-usage-simple
 cloudbees-folder
-cobertura
-code-coverage-api
+coverage
 command-launcher
 conditional-buildstep
 configuration-as-code
