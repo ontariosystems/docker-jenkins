@@ -35,6 +35,7 @@ copyartifact
 credentials
 credentials-binding
 cucumber-reports
+customizable-header
 data-tables-api
 datadog
 display-url-api
