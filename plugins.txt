@@ -8,6 +8,7 @@ antisamy-markup-formatter
 ant
 apache-httpcomponents-client-4-api
 artifact-manager-s3
+artifactory
 atlassian-jira-software-cloud
 authentication-tokens
 aws-credentials
