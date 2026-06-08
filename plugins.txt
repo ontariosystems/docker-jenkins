@@ -44,8 +44,6 @@ mask-passwords
 matrix-auth
 monitoring
 msbuild
-mstest
-mstestrunner
 nested-view
 parameterized-trigger
 pipeline-aws
