@@ -1,6 +1,5 @@
 Office-365-Connector
 Parameterized-Remote-Trigger
-active-directory
 ansicolor
 artifact-manager-s3
 artifactory
@@ -27,10 +26,8 @@ embeddable-build-status
 extended-read-permission
 extra-columns
 favorite
-git-server
 github-branch-source
 htmlpublisher
-javax-mail-api
 jdk-tool
 jira
 job-dsl
