@@ -1,5 +1,4 @@
 Office-365-Connector
-Parameterized-Remote-Trigger
 ansicolor
 artifact-manager-s3
 artifactory
